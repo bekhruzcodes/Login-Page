@@ -1,0 +1,32 @@
+[
+    {
+        "fullname": "Bekhruzbek Mirzaliev",
+        "username": "richard",
+        "email": "mirzaliev@gmail.com",
+        "password": "Bekhruz007."
+    },
+    {
+        "fullname": "Tim Khan",
+        "username": "tim_forever",
+        "email": "timkhan@hotmail.com",
+        "password": "Tim1996@"
+    },
+    {
+        "fullname": "Ravshan Ilhomov",
+        "username": "ravshan",
+        "email": "ravshan@yahoo.com",
+        "password": "Ravshan007."
+    },
+    {
+        "fullname": "Sarvar Qodirov",
+        "username": "sarvar",
+        "email": "sarvar@gmail.com",
+        "password": "Sarvar007."
+    },
+    {
+        "fullname": "Bekhruz Shodiyev",
+        "username": "Bekhruz",
+        "email": "bek@gmail.com",
+        "password": "Bek1000@"
+    }
+]
